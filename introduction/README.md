@@ -17,3 +17,6 @@ There is a script called "control.py" in Raspberry Pi, which should be executed 
 
 # Demo
 [object_capture (From my Google Drive)](https://drive.google.com/file/d/1C8p_W6Wc2bcYTD6u8bAaWHlET5I8zWWg/view?usp=sharing)
+
+# Document (written in Mandarin)
+https://capture-app-document.gitbook.io/capture-app-document/
